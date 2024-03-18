@@ -10,8 +10,12 @@
 // for(var i = 0; i<5; i++){
 //     console.log("inside loop" +i);
 // }
+
+// for(let i = 0; i<5; i++){
+//     console.log("inside loop" +i);
+// }
 // console.log('outside.log' +i);
-for(let i = 0; i<5; i++){
-    console.log("inside loop" +i);
-}
-console.log('outside.log' +i);
+let x=10;
+let y=20;
+let z=x+y;
+console.log(z);
